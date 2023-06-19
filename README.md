@@ -14,7 +14,18 @@
 - 📫 Como entrar em contato comigo/ contact me on: andreduartesilva5@gmail.com/ @duartcode or @duart.ds
 - I don't speak english, but i'm studying.
 - Falo dois idiomas: Português do BRASIL e Espanõl!
-
+<div align="center">
+<div align="center">
+<div align="center">
+<p>a</p>
+</div>
+<p>a</p>
+<p>b</p>
+</div>
+<p>a</p>
+<p>b</p>
+<p>c</p>
+</div>
 <div align="center">
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />     
