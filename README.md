@@ -3,7 +3,7 @@
 #### Hola, que tal! Me llamo André 🙋🏾‍♂️
 
 <div align="left" float="left">
-- *BR Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)*
+<p>- *BR Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)*
 - *EN I am working on a SAAS platform (https://duartcash.epizy.com/)*
 - *ESP Actualmente estoy trabajando en un SAAS (https://duartcash.epizy.com/)*
 - 😎 Sou/I'm/Soy dev web full-stack
@@ -13,6 +13,7 @@
 - 📫 Como entrar em contato comigo/ contact me on: andreduartesilva5@gmail.com/ @duartcode or @duart.ds
 - I don't speak english, but i'm studying.
 - Falo dois idiomas: Português do BRASIL e Espanõl!
+  </p>
 </div>
 <div align="right">
 <img width="200" align="center" src="https://github.com/andredevelop/andreduarte/assets/73521282/afa06316-394b-4b2f-9875-3c0c3a9cd9f9" />
