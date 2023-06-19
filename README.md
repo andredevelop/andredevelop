@@ -1,12 +1,17 @@
 ## Olá, minha gente, me chamo André! 🙋🏾‍♂️
 ## Hi there, my name is André! 🙋🏾‍♂️
+## Hola, que tal! Me llamo André 🙋🏾‍♂️
 
-- 🔭 Atualmente estou trabalhando em uma plataforma SAAS
-- 🔭 I working on a SAAS platform
-- 😎 Sou/i'm dev web full-stack
-- 😀 Aqui você vai encontrar alguns projetos que ando desenvolvendo para praticar
-- 😀 Here you will find some projects that I've been developing to practice
+- 🔭 Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)
+- 🔭 I working on a SAAS platform (https://duartcash.epizy.com/)
+- 🔭 Actualmente estoy trabajando en un SAAS (https://duartcash.epizy.com/)
+- 😎 Sou/I'm/Soy dev web full-stack
+- *BR Aqui você vai encontrar alguns projetos que ando desenvolvendo para praticar*
+- *EN Here you will find some projects that I've been developing to practice*
+- *ESP Puedes encontrar proyectos que desarollo para estudiar y practicar*
 - 📫 Como entrar em contato comigo/ contact me on: andreduartesilva5@gmail.com/ @duartcode or @duart.ds
+- I don't speak english, but i'm studying.
+- Falo dois idiomas: Português do BRASIL e Espanõl!
 
 <div>
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
