@@ -3,7 +3,7 @@
 #### Hola, que tal! Me llamo André 🙋🏾‍♂️
 
 <div align="left" float="left">
-<p>- *BR Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)*
+<p>- *BR Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)*</p>
 - *EN I am working on a SAAS platform (https://duartcash.epizy.com/)*
 - *ESP Actualmente estoy trabajando en un SAAS (https://duartcash.epizy.com/)*
 - 😎 Sou/I'm/Soy dev web full-stack
