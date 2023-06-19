@@ -15,7 +15,7 @@
 - I don't speak english, but i'm studying.
 - Falo dois idiomas: Português do BRASIL e Espanõl!
 
-<div>
+<div align="center">
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />     
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
