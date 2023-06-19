@@ -17,6 +17,7 @@
 <!-- <img width="400" align="center" src="https://github.com/andredevelop/andreduarte/assets/73521282/afa06316-394b-4b2f-9875-3c0c3a9cd9f9" /> -->
 <img width="800" align="center" src="https://github.com/andredevelop/andredevelop/assets/73521282/4cbe9fcd-862f-4eb6-a994-430849a0c204" />
 </div>
+<hr/>
 <br/>
 <div align="center">
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
@@ -28,7 +29,8 @@
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />     
 </div>
-
+<hr/>
+<br/>
 <div align="center">
 <a href="https://github.com/andredevelop">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredevelop&layout=compact&langs_count=7&theme=dracula"/>
