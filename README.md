@@ -15,7 +15,7 @@
 <hr/>
 <div align="center">
 <!-- <img width="400" align="center" src="https://github.com/andredevelop/andreduarte/assets/73521282/afa06316-394b-4b2f-9875-3c0c3a9cd9f9" /> -->
-<img width="800" align="center" src="https://github.com/andredevelop/andredevelop/assets/73521282/4cbe9fcd-862f-4eb6-a994-430849a0c204" />
+<img width="500" align="center" src="https://github.com/andredevelop/andredevelop/assets/73521282/4cbe9fcd-862f-4eb6-a994-430849a0c204" />
 </div>
 <hr/>
 <div align="center">
