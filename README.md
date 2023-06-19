@@ -18,7 +18,6 @@
 <img width="800" align="center" src="https://github.com/andredevelop/andredevelop/assets/73521282/4cbe9fcd-862f-4eb6-a994-430849a0c204" />
 </div>
 <hr/>
-<br/>
 <div align="center">
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />     
