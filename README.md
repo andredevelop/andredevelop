@@ -13,7 +13,9 @@
 - *I don't speak english, but i'm studying*
 - *Falo dois idiomas: Português do BRASIL e Espanõl!*
 
-<img width="300" align="center" src="https://github.com/andredevelop/andreduarte/assets/73521282/afa06316-394b-4b2f-9875-3c0c3a9cd9f9" />
+<div align="center">
+<img width="150" align="center" src="https://github.com/andredevelop/andreduarte/assets/73521282/afa06316-394b-4b2f-9875-3c0c3a9cd9f9" />
+</div>
 
 <div align="center">
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
