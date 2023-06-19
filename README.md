@@ -15,7 +15,7 @@
 - I don't speak english, but i'm studying.
 - Falo dois idiomas: Português do BRASIL e Espanõl!
 
-<div style="margin-bottom:20px;">
+<div>
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />     
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -31,4 +31,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredevelop&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andredevelop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
