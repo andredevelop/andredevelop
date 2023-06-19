@@ -14,11 +14,11 @@ Aqui estão algumas idéias para você começar:
 ![octocat-1687134051013](https://github.com/andredevelop/andreduarte/assets/73521282/afa06316-394b-4b2f-9875-3c0c3a9cd9f9)
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+<img style="width:100%;max-width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img style="width:100%;max-width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img style="width:100%;max-width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img style="width:100%;max-width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img style="width:100%;max-width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 </div>
 <div>
 <a href="https://github.com/andredevelop">
