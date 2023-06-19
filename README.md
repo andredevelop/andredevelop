@@ -14,18 +14,7 @@
 - 📫 Como entrar em contato comigo/ contact me on: andreduartesilva5@gmail.com/ @duartcode or @duart.ds
 - I don't speak english, but i'm studying.
 - Falo dois idiomas: Português do BRASIL e Espanõl!
-<div align="center">
-<div align="center">
-<div align="center">
-<p>a</p>
-</div>
-<p>a</p>
-<p>b</p>
-</div>
-<p>a</p>
-<p>b</p>
-<p>c</p>
-</div>
+
 <div align="center">
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />     
@@ -37,7 +26,7 @@
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />     
 </div>
 
-<div>
+<div align="center">
 <a href="https://github.com/andredevelop">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredevelop&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andredevelop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
