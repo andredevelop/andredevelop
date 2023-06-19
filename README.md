@@ -2,20 +2,19 @@
 #### Hi there, my name is André! 🙋🏾‍♂️
 #### Hola, que tal! Me llamo André 🙋🏾‍♂️
 
-<div align="left" float="left" width="50">
-<p>- *BR Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)*</p>
-<p>- *EN I am working on a SAAS platform (https://duartcash.epizy.com/)*</p>
-<p>- *ESP Actualmente estoy trabajando en un SAAS (https://duartcash.epizy.com/)*</p>
-<p>- 😎 Sou/I'm/Soy dev web full-stack</p>
-<p>- *BR Aqui você vai encontrar alguns projetos que ando desenvolvendo para praticar*</p>
-<p>- *EN Here you will find some projects that I've been developing to practice*</p>
-<p>- *ESP Puedes encontrar proyectos que desarollo para estudiar y practicar*</p>
-<p>- 📫 Como entrar em contato comigo/ contact me on: andreduartesilva5@gmail.com/ @duartcode or @duart.ds</p>
-<p>- I don't speak english, but i'm studying.</p>
-<p>- Falo dois idiomas: Português do BRASIL e Espanõl!</p>
-</div>
+- *BR Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)*
+- *EN I am working on a SAAS platform (https://duartcash.epizy.com/)*
+- *ESP Actualmente estoy trabajando en un SAAS (https://duartcash.epizy.com/)*
+- *😎 Sou/I'm/Soy dev web full-stack*
+- *BR Aqui você vai encontrar alguns projetos que ando desenvolvendo para praticar*
+- *EN Here you will find some projects that I've been developing to practice*
+- *ESP Puedes encontrar proyectos que desarollo para estudiar y practicar*
+- *📫 Como entrar em contato comigo/ contact me on: andreduartesilva5@gmail.com/ @duartcode or @duart.ds*
+- *I don't speak english, but i'm studying*
+- *Falo dois idiomas: Português do BRASIL e Espanõl!*
+
 <div align="right" width="50">
-<img width="200" align="center" src="https://github.com/andredevelop/andreduarte/assets/73521282/afa06316-394b-4b2f-9875-3c0c3a9cd9f9" />
+<img width="300" align="center" src="https://github.com/andredevelop/andreduarte/assets/73521282/afa06316-394b-4b2f-9875-3c0c3a9cd9f9" />
 </div>
 
 
