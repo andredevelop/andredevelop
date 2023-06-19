@@ -1,6 +1,6 @@
 ## Olá, minha gente, me chamo André! 🙋🏾‍♂️
-#### Hi there, my name is André! 🙋🏾‍♂️
-#### Hola, que tal! Me llamo André 🙋🏾‍♂️
+Hi there, my name is André! 🙋🏾‍♂️
+Hola, que tal! Me llamo André 🙋🏾‍♂️
 
 - *BR Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)*
 - *EN I am working on a SAAS platform (https://duartcash.epizy.com/)*
