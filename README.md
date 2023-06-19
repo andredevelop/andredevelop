@@ -1,9 +1,7 @@
 ## Olá, minha gente, me chamo André! 🙋🏾‍♂️
 ## Hi there, my name is André! 🙋🏾‍♂️
 ## Hola, que tal! Me llamo André 🙋🏾‍♂️
-<div text-align="center">
 <img width="200" src="https://github.com/andredevelop/andreduarte/assets/73521282/afa06316-394b-4b2f-9875-3c0c3a9cd9f9" />
-</div>
 - 🔭 Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)
 - 🔭 I working on a SAAS platform (https://duartcash.epizy.com/)
 - 🔭 Actualmente estoy trabajando en un SAAS (https://duartcash.epizy.com/)
