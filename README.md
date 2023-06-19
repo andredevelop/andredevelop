@@ -12,12 +12,13 @@
 - *📫 Como entrar em contato comigo/ contact me on: andreduartesilva5@gmail.com/ @duartcode or @duart.ds*
 - *I don't speak english, but i'm studying*
 - *Falo dois idiomas: Português do BRASIL e Espanõl!*
-
+<hr/>
 <div align="center">
 <img width="150" align="center" src="https://github.com/andredevelop/andreduarte/assets/73521282/afa06316-394b-4b2f-9875-3c0c3a9cd9f9" />
+  <br>
 <img width="600" align="center" src="https://github.com/andredevelop/andredevelop/assets/73521282/4cbe9fcd-862f-4eb6-a994-430849a0c204" />
 </div>
-<br>
+<br/>
 <div align="center">
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />     
