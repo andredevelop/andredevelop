@@ -1,6 +1,6 @@
 ## Olá, minha gente, me chamo André! 🙋🏾‍♂️
-## Hi there, my name is André! 🙋🏾‍♂️
-## Hola, que tal! Me llamo André 🙋🏾‍♂️
+#### Hi there, my name is André! 🙋🏾‍♂️
+#### Hola, que tal! Me llamo André 🙋🏾‍♂️
 
 <img width="200" align="center" src="https://github.com/andredevelop/andreduarte/assets/73521282/afa06316-394b-4b2f-9875-3c0c3a9cd9f9" />
 
