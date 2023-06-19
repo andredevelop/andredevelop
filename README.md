@@ -4,9 +4,9 @@
 
 <img width="200" align="center" src="https://github.com/andredevelop/andreduarte/assets/73521282/afa06316-394b-4b2f-9875-3c0c3a9cd9f9" />
 
-- 🔭 Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)
-- 🔭 I working on a SAAS platform (https://duartcash.epizy.com/)
-- 🔭 Actualmente estoy trabajando en un SAAS (https://duartcash.epizy.com/)
+- *BR Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)*
+- *EN I working on a SAAS platform (https://duartcash.epizy.com/)*
+- *ESP Actualmente estoy trabajando en un SAAS (https://duartcash.epizy.com/)*
 - 😎 Sou/I'm/Soy dev web full-stack
 - *BR Aqui você vai encontrar alguns projetos que ando desenvolvendo para praticar*
 - *EN Here you will find some projects that I've been developing to practice*
