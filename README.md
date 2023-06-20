@@ -3,16 +3,15 @@ Hi there, my name is André! 🙋🏾‍♂️
 <br />
 Hola, que tal! Me llamo André 🙋🏾‍♂️
 
-- *BR Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)*
-- *EN I am working on a SAAS platform (https://duartcash.epizy.com/)*
-- *ESP Actualmente estoy trabajando en un SAAS (https://duartcash.epizy.com/)*
-- *😎 Sou/I'm/Soy dev web full-stack*
-- *BR Aqui você vai encontrar alguns projetos que ando desenvolvendo para praticar*
-- *EN Here you will find some projects that I've been developing to practice*
-- *ESP Puedes encontrar proyectos que desarollo para estudiar y practicar*
-- *📫 Como entrar em contato comigo/ contact me on: andreduartesilva5@gmail.com/ @duartcode or @duart.ds*
-- *I don't speak english, but i'm studying*
-- *Falo dois idiomas: Português do BRASIL e Espanõl!*
+- *__BR__ Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)*
+- *__EN__ I am working on a SAAS platform (https://duartcash.epizy.com/)*
+- *__ESP__ Actualmente estoy trabajando en un SAAS (https://duartcash.epizy.com/)*
+- *__BR__ Aqui você vai encontrar alguns projetos que ando desenvolvendo para praticar*
+- *__EN__ Here you will find some projects that I've been developing to practice*
+- *__ESP__ Puedes encontrar proyectos que desarollo para estudiar y practicar*
+- 😁 Como entrar em contato comigo/ contact me on: andreduartesilva5@gmail.com/ @duartcode or @duart.ds
+- *I __don't__ speak english, but __i'm studying__*
+- *Falo dois idiomas: Português do BRASIL e Espanhol!*
 <hr/>
 <div align="center">
 <!-- <img width="400" align="center" src="https://github.com/andredevelop/andreduarte/assets/73521282/afa06316-394b-4b2f-9875-3c0c3a9cd9f9" /> -->
