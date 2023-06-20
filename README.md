@@ -1,5 +1,6 @@
 # WEB Fullstack developer
 Olá, minha gente, me chamo André! 🙋🏾‍♂️
+<br />
 Hi there, my name is André! 🙋🏾‍♂️
 <br />
 Hola, que tal! Me llamo André 🙋🏾‍♂️
