@@ -1,10 +1,12 @@
 # WEB Fullstack developer
-#### I code mostly using these technologies: PHP, HTML5, CSS3, JS, JQUERY, AJAX
 Olá, minha gente, me chamo André! 🙋🏾‍♂️
 <br />
 Hi there, my name is André! 🙋🏾‍♂️
 <br />
 Hola, que tal! Me llamo André 🙋🏾‍♂️
+<br />
+### I code mostly using these technologies: PHP, HTML5, CSS3, JS, JQUERY, AJAX
+<br />
 
 - *__BR__ Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)*
 - *__EN__ I am working on a SAAS platform (https://duartcash.epizy.com/)*
