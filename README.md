@@ -1,4 +1,5 @@
 # WEB Fullstack developer
+## PHP, HTML5, CSS3, JS, JQUERY, AJAX
 Olá, minha gente, me chamo André! 🙋🏾‍♂️
 <br />
 Hi there, my name is André! 🙋🏾‍♂️
