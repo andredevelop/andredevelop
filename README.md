@@ -8,10 +8,13 @@ Hola, que tal! Me llamo André 🙋🏾‍♂️
 - *__BR__ Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)*
 - *__EN__ I am working on a SAAS platform (https://duartcash.epizy.com/)*
 - *__ESP__ Actualmente estoy trabajando en un SAAS (https://duartcash.epizy.com/)*
+<hr />
 - *__BR__ Aqui você vai encontrar alguns projetos que ando desenvolvendo para praticar*
 - *__EN__ Here you will find some projects that I've been developing to practice*
 - *__ESP__ Puedes encontrar proyectos que desarollo para estudiar y practicar*
+<hr />
 - 😁 Como entrar em contato comigo/ contact me on: andreduartesilva5@gmail.com/ @duartcode or @duart.ds
+<hr />
 - *I __don't__ speak english, but __i'm studying__*
 - *Falo dois idiomas: Português do BRASIL e Espanhol!*
 <hr/>
