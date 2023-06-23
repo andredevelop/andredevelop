@@ -1,4 +1,4 @@
-# WEB Fullstack developer
+# Fullstack web developer
 ### I code mostly using these technologies: PHP, HTML5, CSS3, JS, JQUERY, AJAX
 
 Olá, minha gente, me chamo André! 🙋🏾‍♂️
