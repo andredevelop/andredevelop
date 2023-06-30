@@ -1,10 +1,10 @@
 # Fullstack web developer
 
-Olá, minha gente, me chamo André! 🙋🏾‍♂️
+Olá, minha gente, me chamo André! 😎
 <br />
-Hi there, my name is André! 🙋🏾‍♂️
+Hi there, my name is André! 😎
 <br />
-Hola, que tal! Me llamo André 🙋🏾‍♂️
+Hola, que tal! Me llamo André 😎
 
 - *__BR__ Atualmente estou trabalhando em uma plataforma SAAS (https://duartcash.epizy.com/)*
 - *__EN__ I am working on a SAAS platform (https://duartcash.epizy.com/)*
