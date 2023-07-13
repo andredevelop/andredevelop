@@ -36,6 +36,6 @@ Hola, que tal! Me llamo André 😎
 <br/>
 <div align="center">
 <a href="https://github.com/andredevelop">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=radical">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
 </div>
